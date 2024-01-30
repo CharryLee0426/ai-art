@@ -10,4 +10,4 @@ A model, called stable diffusion, changed the world on August 22, 2022. It chang
 ## Thinking
 
 ## Notes
-1. [ComfyUI.md](https://github.com/CharryLee0426/ai-art/Notes/comfyui.md)
+1. [ComfyUI.md](https://github.com/CharryLee0426/ai-art/blob/main/Notes/comfyui.md)
